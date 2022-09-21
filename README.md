@@ -21,3 +21,8 @@ All the resources you need for Sentinel dVPN blockchainn.
 - Node chat: [https://t.me/SentinelNodeNetwork](https://t.me/SentinelNodeNetwork)
 - Price discussion: [https://t.me/dvpnpricediscussion](https://t.me/dvpnpricediscussion)
 - Governance: [https://t.me/SentinelGov](https://t.me/SentinelGov)
+
+## Social accounts
+- Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
+- Reddit: [https://www.reddit.com/r/dVPN/](https://www.reddit.com/r/dVPN/)
+- Discord: [https://discord.gg/bHJbar4](https://discord.gg/bHJbar4)
