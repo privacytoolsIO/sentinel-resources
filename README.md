@@ -5,7 +5,7 @@ All the resources you need for Sentinel dVPN blockchainn.
 ## Whitelabels
 
 
-![solaricon](<a href=”#"><img align=”left” src=”https://user-images.githubusercontent.com/114076168/191523641-51f3d94a-1c6d-475f-a3ea-392042151d46.png" alt=”icon width=”21px”/></a>)**Solar dVPN (by SolarLabs):**
+**Solar dVPN (by SolarLabs):**
 - Websites: [link](https://solarlabs.ee/)
 - Mobile apps: [iOS](https://apps.apple.com/ee/app/solar-dvpn/id1597909295), [Google Play](https://play.google.com/store/apps/details?id=ee.solarlabs.dvpn)
 - Blockchain Explorer: [Voyager Explorer](https://explorer.solar/sentinel)
