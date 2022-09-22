@@ -7,7 +7,7 @@ All the resources you need for Sentinel dVPN blockchainn.
 * [The Project](#the-project)
 * [Blockchain Monitor](#blockchain-monitor)
 * [Wallets for Staking](#wallets-for-staking)
-* [Whitelabels](#whitelabels)
+* [Applications](#applications)
   - [Solar dVPN](#solar-dvpn)
   - [Meile dVPN](#meile-dvpn)
 * [Telegram channels](#telegram-channels)
@@ -28,7 +28,7 @@ All the resources you need for Sentinel dVPN blockchainn.
 - Keplr: [https://www.keplr.app/](https://www.keplr.app/)
 - Cosmostation: [https://wallet.cosmostation.io/cosmos](https://wallet.cosmostation.io/cosmos)
 
-## Whitelabels
+## Applications
 
 ### **Solar dVPN**
 - Websites: [link](https://solarlabs.ee/)
