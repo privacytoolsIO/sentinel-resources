@@ -37,7 +37,7 @@ All the resources you need for Sentinel dVPN blockchainn.
 ## Applications
 
 * ### **Solar dVPN**
-  - <img src="https://user-images.githubusercontent.com/114076168/191709691-fd7c8d78-dca4-40eb-93c8-3677decfdbf8.png" width="20" height="20"> Official Website: [https://solarlabs.ee/](https://solarlabs.ee/)
+  - <img src="https://user-images.githubusercontent.com/114076168/191720584-55e0d0e2-5f72-4614-84fb-77b615481523.png" width="20" height="20"> Official Website: [https://solarlabs.ee/](https://solarlabs.ee/)
   - <img src="https://user-images.githubusercontent.com/114076168/191705235-bdcf62fd-923f-4e39-87b6-b01cc711e999.jpg" width="20" height="20"> Mobile apps: [iOS](https://apps.apple.com/ee/app/solar-dvpn/id1597909295), [Google Play](https://play.google.com/store/apps/details?id=ee.solarlabs.dvpn)
   - Voyager Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
 
