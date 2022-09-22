@@ -103,7 +103,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> GreyWolf&Co: [https://t.me/greywolfandco](https://t.me/greywolfandco)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> High Stakes: [https://t.me/HighStakesSwitzerland](https://t.me/HighStakesSwitzerland)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> MathNodes: [https://t.me/MathNodes](https://t.me/MathNodes)
-  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> OmniFlix: Network [https://t.me/OmniFLixNetwork](https://t.me/OmniFLixNetwork)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> OmniFlix Network: [https://t.me/OmniFLixNetwork](https://t.me/OmniFLixNetwork)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> SG-1: [https://t.me/sg1online](https://t.me/sg1online)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Stakefish: [https://t.me/stakefish](https://t.me/stakefish)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Stakin: [https://t.me/stakinofficial](https://t.me/stakinofficial)
