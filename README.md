@@ -55,7 +55,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 * <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Price discussion: [https://t.me/dvpnpricediscussion](https://t.me/dvpnpricediscussion)
 * <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Governance: [https://t.me/SentinelGov](https://t.me/SentinelGov)
 * <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> SIN - Sentinel Independent News: [https://t.me/sentinel_independent](https://t.me/sentinel_independent)
-* International Channels:
+* #### International Channels:
   - Africa: [https://t.me/Sentinel_Africa](https://t.me/Sentinel_Africa)
   - Bangladesh: [https://t.me/Sentinel_BD](https://t.me/Sentinel_BD)
   - Brazil: [https://t.me/Sentinel_Brazil](https://t.me/Sentinel_Brazil)
