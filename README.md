@@ -25,7 +25,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 ## Blockchain Explorers
 
 - <img src="https://user-images.githubusercontent.com/114076168/191734208-7c35c104-2fad-4c53-92da-4d45caf923a5.jpg" width="20" height="20"> Mintscan: [https://www.mintscan.io/sentinel](https://www.mintscan.io/sentinel)
-- <img src="https://user-images.githubusercontent.com/114076168/191722438-4dbb93af-b487-45ad-818f-92b27dea6ace.jpg" width="20" height="20"> Voyager Explorer: [Voyager Explorer](https://explorer.solar/sentinel)
+- <img src="https://user-images.githubusercontent.com/114076168/191722438-4dbb93af-b487-45ad-818f-92b27dea6ace.jpg" width="20" height="20"> Voyager Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191725860-d523418a-06f2-4c56-8a90-3cc6b0d92d03.svg" width="20" height="20"> Grafana Chain Monitor: [https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1)
 
 ## Wallets and Staking
