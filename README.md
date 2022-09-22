@@ -59,6 +59,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 * Osmosis: [https://app.osmosis.zone](https://app.osmosis.zone)
 * MEXC: [https://www.mexc.com/exchange/DVPN_USDT](https://www.mexc.com/exchange/DVPN_USDT)
 * Sifchain: [https://sifchain.network/](https://sifchain.network/)
+* Hotbit: [https://www.hotbit.io/exchange?symbol=DVPN_USDT](https://www.hotbit.io/exchange?symbol=DVPN_USDT)
 
 ## Telegram channels
 * <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Official Announcements: [https://t.me/Sentinel_Announcements](https://t.me/Sentinel_Announcements)
