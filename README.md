@@ -46,13 +46,17 @@ All the resources you need for Sentinel dVPN blockchainn.
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop TUI App: [https://github.com/MathNodes/meile](https://github.com/MathNodes/meile)
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop GUI App: [Linux](https://github.com/MathNodes/meile-gui) and [OS X](https://github.com/MathNodes/meile-gui)
 
+
+![telegram](https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png)
+
+
 ## Telegram channels
-- Official Announcements: [https://t.me/Sentinel_Announcements](https://t.me/Sentinel_Announcements)
-- Main chat: [https://t.me/sentinel_co](https://t.me/sentinel_co)
-- Node chat: [https://t.me/SentinelNodeNetwork](https://t.me/SentinelNodeNetwork)
-- Price discussion: [https://t.me/dvpnpricediscussion](https://t.me/dvpnpricediscussion)
-- Governance: [https://t.me/SentinelGov](https://t.me/SentinelGov)
-- SIN - Sentinel Independent News: [https://t.me/sentinel_independent](https://t.me/sentinel_independent)
+- <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Official Announcements: [https://t.me/Sentinel_Announcements](https://t.me/Sentinel_Announcements)
+- <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Main chat: [https://t.me/sentinel_co](https://t.me/sentinel_co)
+- <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Node chat: [https://t.me/SentinelNodeNetwork](https://t.me/SentinelNodeNetwork)
+- <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Price discussion: [https://t.me/dvpnpricediscussion](https://t.me/dvpnpricediscussion)
+- <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Governance: [https://t.me/SentinelGov](https://t.me/SentinelGov)
+- <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> SIN - Sentinel Independent News: [https://t.me/sentinel_independent](https://t.me/sentinel_independent)
 
 ## Social accounts
 - <img src="https://user-images.githubusercontent.com/114076168/191729765-717e1290-9e6a-4478-bc66-ec394c87c296.png" width="20" height="20"> Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
