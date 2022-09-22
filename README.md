@@ -46,10 +46,6 @@ All the resources you need for Sentinel dVPN blockchainn.
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop TUI App: [https://github.com/MathNodes/meile](https://github.com/MathNodes/meile)
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop GUI App: [Linux](https://github.com/MathNodes/meile-gui) and [OS X](https://github.com/MathNodes/meile-gui)
 
-
-![telegram](https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png)
-
-
 ## Telegram channels
 - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Official Announcements: [https://t.me/Sentinel_Announcements](https://t.me/Sentinel_Announcements)
 - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Main chat: [https://t.me/sentinel_co](https://t.me/sentinel_co)
