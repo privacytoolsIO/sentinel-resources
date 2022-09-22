@@ -6,7 +6,7 @@ All the resources you need for Sentinel dVPN blockchainn.
 
 * [The Project](#the-project)
 * [Blockchain Monitor](#blockchain-monitor)
-* [Wallets for Staking](#wallets-for-staking)
+* [Wallets and Staking](#wallets-and-staking)
 * [Applications](#applications)
   - [Solar dVPN](#solar-dvpn)
   - [Meile dVPN](#meile-dvpn)
@@ -24,9 +24,10 @@ All the resources you need for Sentinel dVPN blockchainn.
 - Voyager Explorer: [Voyager Explorer](https://explorer.solar/sentinel)
 - Grafana: [https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1)
 
-## Wallets for Staking
+## Wallets and Staking
 - Keplr: [https://www.keplr.app/](https://www.keplr.app/)
 - Cosmostation: [https://wallet.cosmostation.io/cosmos](https://wallet.cosmostation.io/cosmos)
+- Restake app: [https://restake.app/sentinel](https://restake.app/sentinel)
 
 ## Applications
 
