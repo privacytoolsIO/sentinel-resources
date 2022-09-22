@@ -6,7 +6,7 @@ All the resources you need for Sentinel dVPN blockchainn.
 
 * [The Project](#the-project)
 * [Blockchain Monitor](#blockchain-monitor)
-* [Staking](#staking)
+* [Wallets for Staking](#wallets-for-staking)
 * [Whitelabels](#whitelabels)
   - [Solar dVPN](#solar-dvpn)
   - [Meile dVPN](#meile-dvpn)
@@ -24,15 +24,16 @@ All the resources you need for Sentinel dVPN blockchainn.
 - Voyager Explorer: [Voyager Explorer](https://explorer.solar/sentinel)
 - Grafana: [https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1)
 
-## Staking
-- Keplr: []()
+## Wallets for Staking
+- Keplr: [https://www.keplr.app/](https://www.keplr.app/)
+- Cosmostation: [https://wallet.cosmostation.io/cosmos](https://wallet.cosmostation.io/cosmos)
 
 ## Whitelabels
 
 ### **Solar dVPN**
 - Websites: [link](https://solarlabs.ee/)
 - Mobile apps: [iOS](https://apps.apple.com/ee/app/solar-dvpn/id1597909295), [Google Play](https://play.google.com/store/apps/details?id=ee.solarlabs.dvpn)
-- Blockchain Explorer: [Voyager Explorer](https://explorer.solar/sentinel)
+- Blockchain Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
 
 
 ### **Meile dVPN**
@@ -45,6 +46,7 @@ All the resources you need for Sentinel dVPN blockchainn.
 - Node chat: [https://t.me/SentinelNodeNetwork](https://t.me/SentinelNodeNetwork)
 - Price discussion: [https://t.me/dvpnpricediscussion](https://t.me/dvpnpricediscussion)
 - Governance: [https://t.me/SentinelGov](https://t.me/SentinelGov)
+- SIN - Sentinel Independent News: [https://t.me/sentinel_independent](https://t.me/sentinel_independent)
 
 ## Social accounts
 - Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
