@@ -58,7 +58,7 @@ All the resources you need for Sentinel dVPN blockchainn.
 - <img src="https://user-images.githubusercontent.com/114076168/191729765-717e1290-9e6a-4478-bc66-ec394c87c296.png" width="20" height="20"> Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
 - <img src="https://user-images.githubusercontent.com/114076168/191729819-f6764540-3497-4c3c-b731-d63fe147869e.png" width="20" height="20"> Reddit: [https://www.reddit.com/r/dVPN/](https://www.reddit.com/r/dVPN/)
 - <img src="https://user-images.githubusercontent.com/114076168/191729861-1ec43d14-457f-446c-86f8-8f0097eaf986.png" width="20" height="20"> Discord: [https://discord.gg/bHJbar4](https://discord.gg/bHJbar4)
-- <img src="https://user-images.githubusercontent.com/114076168/191729909-0473cb3b-5c24-4f6c-a9a8-bbcd6e7092b4.png" width="20" height="20"> Medium: [https://medium.com/@sentinel](https://medium.com/@sentinel)
+- <img src="https://user-images.githubusercontent.com/114076168/191731129-4eae222b-7a8a-41d3-a72e-eb3f22ea6851.jpg" width="20" height="20"> Medium: [https://medium.com/@sentinel](https://medium.com/@sentinel)
 
 ## Winning DVPNs
 - <img src="https://user-images.githubusercontent.com/114076168/191728526-658e4c9e-256d-4fd6-b3cd-7671b48eb7c7.png" width="20" height="20"> DVPN Casino: [https://dvpn.casino/](https://dvpn.casino/)
