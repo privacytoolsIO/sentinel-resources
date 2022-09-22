@@ -5,7 +5,7 @@ All the resources you need for Sentinel dVPN blockchainn.
 ## Menu
 
 * [The Project](#the-project)
-* [Blockchain Monitor](#blockchain-monitor)
+* [Blockchain Explorers](#blockchain-explorers)
 * [Wallets and Staking](#wallets-and-staking)
 * [Applications](#applications)
   - [Solar dVPN](#solar-dvpn)
@@ -22,8 +22,8 @@ All the resources you need for Sentinel dVPN blockchainn.
 - Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
 - GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
 
-## Blockchain Monitor
-- Mintscan: [https://www.mintscan.io/sentinel/txs](https://www.mintscan.io/sentinel/txs)
+## Blockchain Explorers
+- Mintscan: [https://www.mintscan.io/sentinel](https://www.mintscan.io/sentinel)
 - Voyager Explorer: [Voyager Explorer](https://explorer.solar/sentinel)
 - Grafana: [https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1)
 
@@ -35,18 +35,16 @@ All the resources you need for Sentinel dVPN blockchainn.
 - Staking Rewards: [https://www.stakingrewards.com/earn/sentinel/](https://www.stakingrewards.com/earn/sentinel/)
 
 ## Applications
-<img src="https://user-images.githubusercontent.com/114076168/191705235-bdcf62fd-923f-4e39-87b6-b01cc711e999.jpg" width="20" height="20">
 
 ### **Solar dVPN**
-- Official Website: [https://solarlabs.ee/](https://solarlabs.ee/)
-- Mobile apps: [iOS](https://apps.apple.com/ee/app/solar-dvpn/id1597909295), [Google Play](https://play.google.com/store/apps/details?id=ee.solarlabs.dvpn)
-- Blockchain Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
+- <img src="https://user-images.githubusercontent.com/114076168/191709691-fd7c8d78-dca4-40eb-93c8-3677decfdbf8.png" width="20" height="20"> Official Website: [https://solarlabs.ee/](https://solarlabs.ee/)
+- <img src="https://user-images.githubusercontent.com/114076168/191705235-bdcf62fd-923f-4e39-87b6-b01cc711e999.jpg" width="20" height="20"> Mobile apps: [iOS](https://apps.apple.com/ee/app/solar-dvpn/id1597909295), [Google Play](https://play.google.com/store/apps/details?id=ee.solarlabs.dvpn)
+- Voyager Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
 
 
 ### **Meile dVPN**
-- Official Website: [link](https://solarlabs.ee/)
-- GitHub: [https://github.com/MathNodes/meile](https://github.com/MathNodes/meile)
-- Desktop App: [Linux](https://github.com/MathNodes/meile-gui) and [OS X](https://github.com/MathNodes/meile-gui)
+- Desktop TUI app: [https://github.com/MathNodes/meile](https://github.com/MathNodes/meile)
+- Desktop GUI App: [Linux](https://github.com/MathNodes/meile-gui) and [OS X](https://github.com/MathNodes/meile-gui)
 
 ## Telegram channels
 - Official Announcements: [https://t.me/Sentinel_Announcements](https://t.me/Sentinel_Announcements)
