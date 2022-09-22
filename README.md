@@ -12,7 +12,7 @@ All the resources you need for Sentinel dVPN blockchainn.
   - [Meile dVPN](#meile-dvpn)
 * [Telegram channels](#telegram-channels)
 * [Social accounts](#social-accounts)
-* [Win DVPNs](win-dvpns)
+* [Win DVPNs](#win-dvpns)
 
 ## The Project
 - Official website: [https://sentinel.co/](https://sentinel.co/)
