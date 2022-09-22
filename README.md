@@ -12,12 +12,15 @@ All the resources you need for Sentinel dVPN blockchainn.
   - [Meile dVPN](#meile-dvpn)
 * [Telegram channels](#telegram-channels)
 * [Social accounts](#social-accounts)
-* [Win DVPNs](#win-dvpns)
+* [Winning DVPNs](#winning-dvpns)
 
 ## The Project
 - Official website: [https://sentinel.co/](https://sentinel.co/)
 - Knowledge Base: [https://kb.sentinel.co/](https://kb.sentinel.co/)
 - Documentation: [https://docs.sentinel.co/](https://docs.sentinel.co/)
+- Whitepaper: [https://sentinel.co/whitepaper](https://sentinel.co/whitepaper)
+- Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
+- GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
 
 ## Blockchain Monitor
 - Mintscan: [https://www.mintscan.io/sentinel/txs](https://www.mintscan.io/sentinel/txs)
@@ -25,20 +28,22 @@ All the resources you need for Sentinel dVPN blockchainn.
 - Grafana: [https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1)
 
 ## Wallets and Staking
-- Keplr: [https://www.keplr.app/](https://www.keplr.app/)
-- Cosmostation: [https://wallet.cosmostation.io/cosmos](https://wallet.cosmostation.io/cosmos)
-- Restake app: [https://restake.app/sentinel](https://restake.app/sentinel)
+- Keplr Wallet: [https://wallet.keplr.app/](https://wallet.keplr.app/))
+- Cosmostation Wallet: [https://wallet.cosmostation.io/cosmos](https://wallet.cosmostation.io/cosmos)
+- Sentinel Wallet: [https://github.com/sentinel-official/desktop-client/releases](https://github.com/sentinel-official/desktop-client/releases)
+- Restake App: [https://restake.app/sentinel](https://restake.app/sentinel)
+- Staking Rewards: [https://www.stakingrewards.com/earn/sentinel/](https://www.stakingrewards.com/earn/sentinel/)
 
 ## Applications
 
 ### **Solar dVPN**
-- Websites: [link](https://solarlabs.ee/)
+- Official Website: [https://solarlabs.ee/](https://solarlabs.ee/)
 - Mobile apps: [iOS](https://apps.apple.com/ee/app/solar-dvpn/id1597909295), [Google Play](https://play.google.com/store/apps/details?id=ee.solarlabs.dvpn)
 - Blockchain Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
 
 
 ### **Meile dVPN**
-- Websites: [link](https://solarlabs.ee/), [GitHub](https://github.com/MathNodes/meile)
+- Official Website: [link](https://solarlabs.ee/), [GitHub](https://github.com/MathNodes/meile)
 - Desktop App: [Linux](https://github.com/MathNodes/meile-gui) and [OS X](https://github.com/MathNodes/meile-gui)
 
 ## Telegram channels
@@ -55,6 +60,6 @@ All the resources you need for Sentinel dVPN blockchainn.
 - Discord: [https://discord.gg/bHJbar4](https://discord.gg/bHJbar4)
 - Medium: [https://medium.com/@sentinel](https://medium.com/@sentinel)
 
-## Win DVPNs
+## Winning DVPNs
 - DVPN Casino: [https://dvpn.casino/](https://dvpn.casino/)
 - TedCrypto Lottery: [https://lotto.tedcrypto.io/sentinel](https://lotto.tedcrypto.io/sentinel)
