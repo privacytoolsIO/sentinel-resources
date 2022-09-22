@@ -5,8 +5,8 @@ All the resources you need for Sentinel dVPN blockchainn.
 ## Menu
 
 * [Whitelabels](#whitelabels)
-* [Telegram channels](#telegramchannels)
-* [Social accounts](#socialaccounts)
+* [Telegram channels](#telegram-channels)
+* [Social accounts](#social-accounts)
 
 ## Whitelabels
 
