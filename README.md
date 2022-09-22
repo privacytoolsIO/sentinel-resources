@@ -89,6 +89,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Allnodes [https://t.me/allnodes](https://t.me/allnodes)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> AUDIT.one [https://t.me/AuditOne](https://t.me/AuditOne)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> AutoStake [https://t.me/AutoStake_net](https://t.me/AutoStake_net)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Badger Bite [https://t.me/BadgerbiteValidator](https://t.me/BadgerbiteValidator)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> ChainLayer [https://t.me/chainlayer](https://t.me/chainlayer)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> ChainTools [https://t.me/chaintoolsT](https://t.me/chaintoolsT)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> CommunityStaking [https://t.me/CommunityStaking](https://t.me/CommunityStaking)
