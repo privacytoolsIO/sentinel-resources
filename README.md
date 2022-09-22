@@ -20,9 +20,10 @@ All the resources you need for Sentinel dVPN blockchainn.
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Documentation: [https://docs.sentinel.co/](https://docs.sentinel.co/)
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Whitepaper: [https://sentinel.co/whitepaper](https://sentinel.co/whitepaper)
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
-- GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
+- <img src="https://user-images.githubusercontent.com/114076168/191727010-319dabce-755c-46bb-9b09-7ac1db26921d.jpg" width="20" height="20"> GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
 
 ## Blockchain Explorers
+
 - <img src="https://user-images.githubusercontent.com/114076168/191722990-06f96518-5b59-4cb1-818a-5400f9520400.jpg" width="20" height="20"> Mintscan: [https://www.mintscan.io/sentinel](https://www.mintscan.io/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191722438-4dbb93af-b487-45ad-818f-92b27dea6ace.jpg" width="20" height="20"> Voyager Explorer: [Voyager Explorer](https://explorer.solar/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191725860-d523418a-06f2-4c56-8a90-3cc6b0d92d03.svg" width="20" height="20"> Grafana Chain Monitor: [https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1)
