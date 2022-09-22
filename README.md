@@ -19,7 +19,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Knowledge Base: [https://kb.sentinel.co/](https://kb.sentinel.co/)
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Documentation: [https://docs.sentinel.co/](https://docs.sentinel.co/)
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Whitepaper: [https://sentinel.co/whitepaper](https://sentinel.co/whitepaper)
-- <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
+- <img src="https://user-images.githubusercontent.com/114076168/191731129-4eae222b-7a8a-41d3-a72e-eb3f22ea6851.jpg" width="20" height="20"> Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
 - <img src="https://user-images.githubusercontent.com/114076168/191727010-319dabce-755c-46bb-9b09-7ac1db26921d.jpg" width="20" height="20"> GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
 
 ## Blockchain Explorers
