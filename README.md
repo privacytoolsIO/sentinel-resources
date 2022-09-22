@@ -5,6 +5,8 @@ All the resources you need for Sentinel dVPN blockchainn.
 ## Menu
 
 * [Whitelabels](#whitelabels)
+  - [Solar dVPN (by SolarLabs)](#solar-dvpn)
+  - [Meile dVPN (by MathNodes)](#meile-dvpn)
 * [Telegram channels](#telegram-channels)
 * [Social accounts](#social-accounts)
 
