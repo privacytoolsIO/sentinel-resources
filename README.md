@@ -10,6 +10,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 * [Whitelabels](#whitelabels)
   - [Solar dVPN](#solar-dvpn)
   - [Meile dVPN](#meile-dvpn)
+* [Exchanges supporting DVPN](#exchanges-supporting-dvpn)
 * [Telegram channels](#telegram-channels)
   - [International Channels](#international-channels)
   - [Validators](#validators)
@@ -51,6 +52,13 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Telegram channel: [https://t.me/MathNodes](https://t.me/MathNodes)
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop TUI App: [https://github.com/MathNodes/meile](https://github.com/MathNodes/meile)
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop GUI App: [Linux](https://github.com/MathNodes/meile-gui) and [OS X](https://github.com/MathNodes/meile-gui)
+
+## Exchanges supporting DVPN
+* Kucoin: [https://trade.kucoin.com/DVPN-USDT](https://trade.kucoin.com/DVPN-USDT)
+* AscendEx: [https://ascendex.com/en/basic/cashtrade-spottrading/usdt/dvpn](https://ascendex.com/en/basic/cashtrade-spottrading/usdt/dvpn)
+* Osmosis: [https://app.osmosis.zone](https://app.osmosis.zone)
+* MEXC: [https://www.mexc.com/exchange/DVPN_USDT](https://www.mexc.com/exchange/DVPN_USDT)
+* Sifchain: [https://sifchain.network/](https://sifchain.network/)
 
 ## Telegram channels
 * <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Official Announcements: [https://t.me/Sentinel_Announcements](https://t.me/Sentinel_Announcements)
