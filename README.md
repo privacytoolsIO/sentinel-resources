@@ -15,22 +15,22 @@ All the resources you need for Sentinel dVPN blockchainn.
 * [Winning DVPNs](#winning-dvpns)
 
 ## The Project
-- Official website: [https://sentinel.co/](https://sentinel.co/)
-- Knowledge Base: [https://kb.sentinel.co/](https://kb.sentinel.co/)
-- Documentation: [https://docs.sentinel.co/](https://docs.sentinel.co/)
-- Whitepaper: [https://sentinel.co/whitepaper](https://sentinel.co/whitepaper)
-- Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
+- <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Official website: [https://sentinel.co/](https://sentinel.co/)
+- <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Knowledge Base: [https://kb.sentinel.co/](https://kb.sentinel.co/)
+- <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Documentation: [https://docs.sentinel.co/](https://docs.sentinel.co/)
+- <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Whitepaper: [https://sentinel.co/whitepaper](https://sentinel.co/whitepaper)
+- <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
 - GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
 
 ## Blockchain Explorers
-- Mintscan: [https://www.mintscan.io/sentinel](https://www.mintscan.io/sentinel)
+- <img src="https://user-images.githubusercontent.com/114076168/191722990-06f96518-5b59-4cb1-818a-5400f9520400.jpg" width="20" height="20"> Mintscan: [https://www.mintscan.io/sentinel](https://www.mintscan.io/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191722438-4dbb93af-b487-45ad-818f-92b27dea6ace.jpg" width="20" height="20"> Voyager Explorer: [Voyager Explorer](https://explorer.solar/sentinel)
 - Grafana: [https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1)
 
 ## Wallets and Staking
 - Keplr Wallet: [https://wallet.keplr.app/](https://wallet.keplr.app/))
-- Cosmostation Wallet: [https://wallet.cosmostation.io/cosmos](https://wallet.cosmostation.io/cosmos)
-- Sentinel Wallet: [https://github.com/sentinel-official/desktop-client/releases](https://github.com/sentinel-official/desktop-client/releases)
+- <img src="https://user-images.githubusercontent.com/114076168/191722990-06f96518-5b59-4cb1-818a-5400f9520400.jpg" width="20" height="20"> Cosmostation Wallet: [https://wallet.cosmostation.io/cosmos](https://wallet.cosmostation.io/cosmos)
+- <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Sentinel Wallet: [https://github.com/sentinel-official/desktop-client/releases](https://github.com/sentinel-official/desktop-client/releases)
 - Restake App: [https://restake.app/sentinel](https://restake.app/sentinel)
 - Staking Rewards: [https://www.stakingrewards.com/earn/sentinel/](https://www.stakingrewards.com/earn/sentinel/)
 
