@@ -24,13 +24,13 @@ All the resources you need for Sentinel dVPN blockchainn.
 
 ## Blockchain Explorers
 
-- <img src="https://user-images.githubusercontent.com/114076168/191722990-06f96518-5b59-4cb1-818a-5400f9520400.jpg" width="20" height="20"> Mintscan: [https://www.mintscan.io/sentinel](https://www.mintscan.io/sentinel)
+- <img src="https://user-images.githubusercontent.com/114076168/191734208-7c35c104-2fad-4c53-92da-4d45caf923a5.jpg" width="20" height="20"> Mintscan: [https://www.mintscan.io/sentinel](https://www.mintscan.io/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191722438-4dbb93af-b487-45ad-818f-92b27dea6ace.jpg" width="20" height="20"> Voyager Explorer: [Voyager Explorer](https://explorer.solar/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191725860-d523418a-06f2-4c56-8a90-3cc6b0d92d03.svg" width="20" height="20"> Grafana Chain Monitor: [https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1)
 
 ## Wallets and Staking
 - <img src="https://user-images.githubusercontent.com/114076168/191733223-cb009de1-3873-4474-b1af-806ac39bf97b.png" width="20" height="20"> Keplr Wallet: [https://wallet.keplr.app/](https://wallet.keplr.app/))
-- <img src="https://user-images.githubusercontent.com/114076168/191722990-06f96518-5b59-4cb1-818a-5400f9520400.jpg" width="20" height="20"> Cosmostation Wallet: [https://wallet.cosmostation.io/cosmos](https://wallet.cosmostation.io/cosmos)
+- <img src="https://user-images.githubusercontent.com/114076168/191734208-7c35c104-2fad-4c53-92da-4d45caf923a5.jpg" width="20" height="20"> Cosmostation Wallet: [https://wallet.cosmostation.io/cosmos](https://wallet.cosmostation.io/cosmos)
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Sentinel Wallet: [https://github.com/sentinel-official/desktop-client/releases](https://github.com/sentinel-official/desktop-client/releases)
 - <img src="https://user-images.githubusercontent.com/114076168/191732129-16b69c73-6914-4df5-a7ec-148cd8d4cbb0.png" width="20" height="20"> Restake App: [https://restake.app/sentinel](https://restake.app/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191732580-467936d6-20e2-4bd1-bbdb-332d0dfc8c6a.jpg" width="20" height="20"> Staking Rewards: [https://www.stakingrewards.com/earn/sentinel/](https://www.stakingrewards.com/earn/sentinel/)
