@@ -7,7 +7,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 * [The Project](#the-project)
 * [Blockchain Explorers](#blockchain-explorers)
 * [Wallets and Staking](#wallets-and-staking)
-* [Applications](#applications)
+* [Whitelabels](#whitelabels)
   - [Solar dVPN](#solar-dvpn)
   - [Meile dVPN](#meile-dvpn)
 * [Telegram channels](#telegram-channels)
@@ -37,15 +37,17 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 - <img src="https://user-images.githubusercontent.com/114076168/191732129-16b69c73-6914-4df5-a7ec-148cd8d4cbb0.png" width="20" height="20"> Restake App: [https://restake.app/sentinel](https://restake.app/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191732580-467936d6-20e2-4bd1-bbdb-332d0dfc8c6a.jpg" width="20" height="20"> Staking Rewards: [https://www.stakingrewards.com/earn/sentinel/](https://www.stakingrewards.com/earn/sentinel/)
 
-## Applications
+## Whitelabels
 
 * ### **Solar dVPN**
   - <img src="https://user-images.githubusercontent.com/114076168/191720584-55e0d0e2-5f72-4614-84fb-77b615481523.png" width="20" height="20"> Official Website: [https://solarlabs.ee/](https://solarlabs.ee/)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Telegram channel: [https://t.me/solarlabs](https://t.me/solarlabs)
   - <img src="https://user-images.githubusercontent.com/114076168/191705235-bdcf62fd-923f-4e39-87b6-b01cc711e999.jpg" width="20" height="20"> Mobile apps: [iOS](https://apps.apple.com/ee/app/solar-dvpn/id1597909295), [Google Play](https://play.google.com/store/apps/details?id=ee.solarlabs.dvpn)
   - <img src="https://user-images.githubusercontent.com/114076168/191722438-4dbb93af-b487-45ad-818f-92b27dea6ace.jpg" width="20" height="20"> Voyager Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
 
 * ### **Meile dVPN**
   - <img src="https://user-images.githubusercontent.com/114076168/191735544-c742ddc9-3fb0-411a-ad1e-755c6ec52dc3.jpg" width="20" height="20"> Official Website [https://mathnodes.com/](https://mathnodes.com/)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Telegram channel: [https://t.me/MathNodes](https://t.me/MathNodes)
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop TUI App: [https://github.com/MathNodes/meile](https://github.com/MathNodes/meile)
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop GUI App: [Linux](https://github.com/MathNodes/meile-gui) and [OS X](https://github.com/MathNodes/meile-gui)
 
