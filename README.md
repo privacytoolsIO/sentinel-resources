@@ -24,7 +24,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Whitepaper: [https://sentinel.co/whitepaper](https://sentinel.co/whitepaper)
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Statistics: [https://stats.sentinel.co/stats](https://stats.sentinel.co/stats)
 - <img src="https://user-images.githubusercontent.com/114076168/191895722-69e825a2-be4d-4b16-87fe-8350aaef8be9.png" width="20" height="20"> Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
-- <img src="https://user-images.githubusercontent.com/114076168/191870194-b5648555-fe64-478a-b146-828a5eb5c04b.jpeg" width="20" height="20"> Commonwealth (governance and proposals discussions): [https://commonwealth.im/sentinel](https://commonwealth.im/sentinel)
+- <img src="https://user-images.githubusercontent.com/114076168/191897147-2cc37af5-cd0b-40a5-97ea-565c8b3a2524.jpeg" width="20" height="20"> Commonwealth (governance and proposals discussions): [https://commonwealth.im/sentinel](https://commonwealth.im/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191895725-44df68b9-7147-4389-9436-c5e0c8615fd5.png" width="20" height="20"> GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
 
 ## Blockchain Explorers
