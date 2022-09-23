@@ -23,9 +23,9 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Documentation: [https://docs.sentinel.co/](https://docs.sentinel.co/)
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Whitepaper: [https://sentinel.co/whitepaper](https://sentinel.co/whitepaper)
 - <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="20" height="20"> Statistics: [https://stats.sentinel.co/stats](https://stats.sentinel.co/stats)
-- <img src="https://user-images.githubusercontent.com/114076168/191731129-4eae222b-7a8a-41d3-a72e-eb3f22ea6851.jpg" width="20" height="20"> Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
+- <img src="https://user-images.githubusercontent.com/114076168/191895722-69e825a2-be4d-4b16-87fe-8350aaef8be9.png" width="20" height="20"> Tokenomics: [https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5](https://medium.com/sentinel/brief-on-sentinels-new-mainnet-token-economics-303e7250adf5)
 - <img src="https://user-images.githubusercontent.com/114076168/191870194-b5648555-fe64-478a-b146-828a5eb5c04b.jpeg" width="20" height="20"> Commonwealth (governance and proposals discussions): [https://commonwealth.im/sentinel](https://commonwealth.im/sentinel)
-- <img src="https://user-images.githubusercontent.com/114076168/191727010-319dabce-755c-46bb-9b09-7ac1db26921d.jpg" width="20" height="20"> GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
+- <img src="https://user-images.githubusercontent.com/114076168/191895725-44df68b9-7147-4389-9436-c5e0c8615fd5.png" width="20" height="20"> GitHub: [https://github.com/sentinel-official](https://github.com/sentinel-official)
 
 ## Blockchain Explorers
 
@@ -129,10 +129,10 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Woodstock: [https://t.me/woodstockfund](https://t.me/woodstockfund) 
 
 ## Social accounts
-- <img src="https://user-images.githubusercontent.com/114076168/191729765-717e1290-9e6a-4478-bc66-ec394c87c296.png" width="20" height="20"> Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
-- <img src="https://user-images.githubusercontent.com/114076168/191729819-f6764540-3497-4c3c-b731-d63fe147869e.png" width="20" height="20"> Reddit: [https://www.reddit.com/r/dVPN/](https://www.reddit.com/r/dVPN/)
-- <img src="https://user-images.githubusercontent.com/114076168/191729861-1ec43d14-457f-446c-86f8-8f0097eaf986.png" width="20" height="20"> Discord: [https://discord.gg/bHJbar4](https://discord.gg/bHJbar4)
-- <img src="https://user-images.githubusercontent.com/114076168/191731129-4eae222b-7a8a-41d3-a72e-eb3f22ea6851.jpg" width="20" height="20"> Medium: [https://medium.com/@sentinel](https://medium.com/@sentinel)
+- <img src="https://user-images.githubusercontent.com/114076168/191895719-e4db3eac-4118-4772-b9ab-cd2b58e0aff8.png" width="20" height="20"> Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
+- <img src="https://user-images.githubusercontent.com/114076168/191895723-c8486e2c-0853-49dd-bc39-54ece0cbbf18.png" width="20" height="20"> Reddit: [https://www.reddit.com/r/dVPN/](https://www.reddit.com/r/dVPN/)
+- <img src="https://user-images.githubusercontent.com/114076168/191895718-78787ae4-944e-4ecd-af17-2a50e67002f1.png" width="20" height="20"> Discord: [https://discord.gg/bHJbar4](https://discord.gg/bHJbar4)
+- <img src="https://user-images.githubusercontent.com/114076168/191895722-69e825a2-be4d-4b16-87fe-8350aaef8be9.png" width="20" height="20"> Medium: [https://medium.com/@sentinel](https://medium.com/@sentinel)
 
 ## Winning DVPNs
 - <img src="https://user-images.githubusercontent.com/114076168/191728526-658e4c9e-256d-4fd6-b3cd-7671b48eb7c7.png" width="20" height="20"> DVPN Casino: [https://dvpn.casino/](https://dvpn.casino/)
