@@ -6,6 +6,7 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 
 * [The Project](#the-project)
 * [Blockchain Explorers](#blockchain-explorers)
+* [Guides](#guides)
 * [Wallets and Staking](#wallets-and-staking)
 * [Whitelabels](#whitelabels)
   - [Solar dVPN](#solar-dvpn)
@@ -32,6 +33,9 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 - <img src="https://user-images.githubusercontent.com/114076168/191734208-7c35c104-2fad-4c53-92da-4d45caf923a5.jpg" width="20" height="20"> Mintscan: [https://www.mintscan.io/sentinel](https://www.mintscan.io/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191722438-4dbb93af-b487-45ad-818f-92b27dea6ace.jpg" width="20" height="20"> Voyager Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191725860-d523418a-06f2-4c56-8a90-3cc6b0d92d03.svg" width="20" height="20"> Grafana Chain Monitor: [https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=sentinelhub-2&orgId=1)
+
+## Guides
+- Install a Sentinel Node: [https://github.com/p4privacy/sentinel_node_guide](https://github.com/p4privacy/sentinel_node_guide)
 
 ## Wallets and Staking
 - <img src="https://user-images.githubusercontent.com/114076168/191733223-cb009de1-3873-4474-b1af-806ac39bf97b.png" width="20" height="20"> Keplr Wallet: [https://wallet.keplr.app/](https://wallet.keplr.app/))
