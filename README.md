@@ -64,9 +64,6 @@ All the resources you need to get familiar with Sentinel dVPN network.
 ## Integration in other projects
 
 * ### Decentr Web Browser
-
-Decentr is a decentralized web browser which integrates Sentinel dVPN for full anonymous navigation
-
   - <img src="https://user-images.githubusercontent.com/114076168/192141110-50483024-339f-40af-bda2-f012de9eaead.png" width="20" height="20"> Official Website: [https://decentr.net/](https://decentr.net/)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Telegram channel: [https://t.me/DecentrNet](https://t.me/DecentrNet)
 
