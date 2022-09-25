@@ -1,6 +1,6 @@
 # <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="35" height="35"> Sentinel Resources [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp4privacy%2Fsentinel_resources&count_bg=%230000ff&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-All the resources you need to get familiar with Sentinel dVPN blockchain.
+All the resources you need to get familiar with Sentinel dVPN network.
 
 ## Menu
 
@@ -11,6 +11,8 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
 * [Whitelabels](#whitelabels)
   - [Solar dVPN](#solar-dvpn)
   - [Meile dVPN](#meile-dvpn)
+* [Integration in other projects](#integration-in-other-projects)
+  - [Decentr Web Browser](#decentr-web-browser)
 * [Exchanges supporting DVPN](#exchanges-supporting-dvpn)
 * [Telegram channels](#telegram-channels)
   - [International Channels](#international-channels)
@@ -58,6 +60,15 @@ All the resources you need to get familiar with Sentinel dVPN blockchain.
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Telegram channel: [https://t.me/MathNodes](https://t.me/MathNodes)
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop TUI App: [https://github.com/MathNodes/meile](https://github.com/MathNodes/meile)
   - <img src="https://user-images.githubusercontent.com/114076168/191720215-075b0f91-33c2-4568-a838-d2046e922718.png" width="20" height="20"> Desktop GUI App: [Linux](https://github.com/MathNodes/meile-gui) and [OS X](https://github.com/MathNodes/meile-gui)
+
+## Integration in other projects
+
+* ### Decentr Web Browser
+
+Decentr is a decentralized web browser which integrates Sentinel dVPN for full anonymous navigation
+
+  - <img src="https://user-images.githubusercontent.com/114076168/192141110-50483024-339f-40af-bda2-f012de9eaead.png" width="20" height="20"> Official Website: [https://decentr.net/](https://decentr.net/)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Telegram channel: [https://t.me/DecentrNet](https://t.me/DecentrNet)
 
 ## Exchanges supporting DVPN
 * <img src="https://user-images.githubusercontent.com/114076168/191877833-a23ee9d4-b90d-421c-bb73-d43f7dcc1e2a.png" width="20" height="20"> Kucoin: [https://trade.kucoin.com/DVPN-USDT](https://trade.kucoin.com/DVPN-USDT)
