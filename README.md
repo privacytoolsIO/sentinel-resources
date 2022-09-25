@@ -14,8 +14,8 @@ All the resources you need to get familiar with Sentinel dVPN network.
 * [Integration in other projects](#integration-in-other-projects)
   - [Decentr Web Browser](#decentr-web-browser)
 * [Exchanges supporting DVPN](#exchanges-supporting-dvpn)
-  - [Centralized (CEX)](#centralized)
-  - [Decentralized (DEX)](#decentralized)
+  - [Centralized](#centralized)
+  - [Decentralized](#decentralized)
 * [Telegram channels](#telegram-channels)
   - [International Channels](#international-channels)
   - [Validators](#validators)
@@ -71,13 +71,13 @@ All the resources you need to get familiar with Sentinel dVPN network.
 
 ## Exchanges supporting DVPN
 
-* ### Centralized (CEX)
+* ### Centralized
   - <img src="https://user-images.githubusercontent.com/114076168/191877833-a23ee9d4-b90d-421c-bb73-d43f7dcc1e2a.png" width="20" height="20"> Kucoin: [https://trade.kucoin.com/DVPN-USDT](https://trade.kucoin.com/DVPN-USDT)
   - <img src="https://user-images.githubusercontent.com/114076168/191877848-0d345eae-0e13-4c4a-9a34-ed85760b39fc.jpg" width="20" height="20"> AscendEx: [https://ascendex.com/en/basic/cashtrade-spottrading/usdt/dvpn](https://ascendex.com/en/basic/cashtrade-spottrading/usdt/dvpn)
   - <img src="https://user-images.githubusercontent.com/114076168/191877857-f7588512-e2ba-4ae2-a4bd-7873d945bec3.png" width="20" height="20"> MEXC: [https://www.mexc.com/exchange/DVPN_USDT](https://www.mexc.com/exchange/DVPN_USDT)
   - <img src="https://user-images.githubusercontent.com/114076168/191877868-72e7fdbb-abd1-496b-a1ca-c29fec3efeb4.png" width="20" height="20"> Hotbit: [https://www.hotbit.io/exchange?symbol=DVPN_USDT](https://www.hotbit.io/exchange?symbol=DVPN_USDT)
 
-* ### Decentralized (DEX)
+* ### Decentralized
   - <img src="https://user-images.githubusercontent.com/114076168/191877851-225927de-5a7d-4410-a354-08e67a50760a.png" width="20" height="20"> Osmosis: [https://app.osmosis.zone](https://app.osmosis.zone)
   - <img src="https://user-images.githubusercontent.com/114076168/191877865-bda1f103-cd08-474a-90ec-9dad5bc05159.png" width="20" height="20"> Sifchain: [https://sifchain.network/](https://sifchain.network/)
 
