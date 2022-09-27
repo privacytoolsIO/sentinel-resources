@@ -82,6 +82,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
   - <img src="https://user-images.githubusercontent.com/114076168/191877851-225927de-5a7d-4410-a354-08e67a50760a.png" width="20" height="20"> Osmosis: [https://app.osmosis.zone](https://app.osmosis.zone)
   - <img src="https://user-images.githubusercontent.com/114076168/191877865-bda1f103-cd08-474a-90ec-9dad5bc05159.png" width="20" height="20"> Sifchain: [https://sifchain.network/](https://sifchain.network/)
   - <img src="https://user-images.githubusercontent.com/114076168/192440569-4dcd0746-9bb2-4d3f-bc11-acf2841a048c.png" width="20" height="20"> Polarity: [https://polarity.exchange/](https://polarity.exchange/)
+  - <img src="https://user-images.githubusercontent.com/114076168/192654505-f9805110-d520-4857-8a23-258037fcf197.png" width="20" height="20"> Sienna Network: [https://sienna.network/](https://sienna.network/)
 
 ## Telegram channels
 * <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Official Announcements: [https://t.me/Sentinel_Announcements](https://t.me/Sentinel_Announcements)
