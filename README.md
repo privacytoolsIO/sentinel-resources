@@ -59,9 +59,6 @@ All the resources you need to get familiar with Sentinel dVPN network.
   - <img src="https://user-images.githubusercontent.com/114076168/192905894-54d586c0-9f9b-4fc2-8e35-2eba7673d61a.png" width="20" height="20"> MacOs Desktop app: [https://apps.apple.com/app/solar-dvpn-fast-anonymous/id1597909295](https://apps.apple.com/app/solar-dvpn-fast-anonymous/id1597909295)
   - <img src="https://user-images.githubusercontent.com/114076168/191722438-4dbb93af-b487-45ad-818f-92b27dea6ace.jpg" width="20" height="20"> Voyager Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
 
-![mac](https://user-images.githubusercontent.com/114076168/192905894-54d586c0-9f9b-4fc2-8e35-2eba7673d61a.png)
-
-
 * ### Meile dVPN
   - <img src="https://user-images.githubusercontent.com/114076168/191735544-c742ddc9-3fb0-411a-ad1e-755c6ec52dc3.jpg" width="20" height="20"> Official Website [https://mathnodes.com/](https://mathnodes.com/)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Telegram channel: [https://t.me/MathNodes](https://t.me/MathNodes)
