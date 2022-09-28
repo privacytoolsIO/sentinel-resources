@@ -56,6 +56,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
   - <img src="https://user-images.githubusercontent.com/114076168/191720584-55e0d0e2-5f72-4614-84fb-77b615481523.png" width="20" height="20"> Official Website: [https://solarlabs.ee/](https://solarlabs.ee/)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Telegram channel: [https://t.me/solarlabs](https://t.me/solarlabs)
   - <img src="https://user-images.githubusercontent.com/114076168/191705235-bdcf62fd-923f-4e39-87b6-b01cc711e999.jpg" width="20" height="20"> Mobile apps: [iOS](https://apps.apple.com/ee/app/solar-dvpn/id1597909295), [Google Play](https://play.google.com/store/apps/details?id=ee.solarlabs.dvpn)
+  - <img src="https://user-images.githubusercontent.com/114076168/192905503-90562aa6-4fcd-4165-999b-bb177b41342c.png" width="20" height="20"> MacOs Desktop app: [https://apps.apple.com/app/solar-dvpn-fast-anonymous/id1597909295](https://apps.apple.com/app/solar-dvpn-fast-anonymous/id1597909295)
   - <img src="https://user-images.githubusercontent.com/114076168/191722438-4dbb93af-b487-45ad-818f-92b27dea6ace.jpg" width="20" height="20"> Voyager Explorer: [https://explorer.solar/sentinel](https://explorer.solar/sentinel)
 
 * ### Meile dVPN
