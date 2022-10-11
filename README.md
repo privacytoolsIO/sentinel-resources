@@ -16,7 +16,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
 * [Exchanges supporting DVPN](#exchanges-supporting-dvpn)
   - [Centralized](#centralized)
   - [Decentralized](#decentralized)
-* [Try Sentinel DVPN for free](#ry-sentinel-dvpn-for-free)
+* [Try Sentinel DVPN for free](#try-sentinel-dvpn-for-free)
 * [Telegram channels](#telegram-channels)
   - [Official Channels](#official-channels)
   - [International Channels](#international-channels)
