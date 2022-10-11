@@ -8,7 +8,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
 * [Blockchain Explorers](#blockchain-explorers)
 * [Guides](#guides)
 * [Wallets and Staking](#wallets-and-staking)
-* [Whitelabels](#whitelabels)
+* [Software Applications by Whitelabels](#software-applications-by-whitelabels)
   - [Solar dVPN](#solar-dvpn)
   - [Meile dVPN](#meile-dvpn)
 * [Integration in other projects](#integration-in-other-projects)
@@ -16,7 +16,9 @@ All the resources you need to get familiar with Sentinel dVPN network.
 * [Exchanges supporting DVPN](#exchanges-supporting-dvpn)
   - [Centralized](#centralized)
   - [Decentralized](#decentralized)
+* [Try Sentinel DVPN for free](#ry-sentinel-dvpn-for-free)
 * [Telegram channels](#telegram-channels)
+  - [Official Channels](#official-channels)
   - [International Channels](#international-channels)
   - [Validators](#validators)
 * [Social accounts](#social-accounts)
@@ -50,7 +52,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
 - <img src="https://user-images.githubusercontent.com/114076168/191732129-16b69c73-6914-4df5-a7ec-148cd8d4cbb0.png" width="20" height="20"> Restake App: [https://restake.app/sentinel](https://restake.app/sentinel)
 - <img src="https://user-images.githubusercontent.com/114076168/191732580-467936d6-20e2-4bd1-bbdb-332d0dfc8c6a.jpg" width="20" height="20"> Staking Rewards: [https://www.stakingrewards.com/earn/sentinel/](https://www.stakingrewards.com/earn/sentinel/)
 
-## Whitelabels
+## Software Applications by Whitelabels
 
 * ### Solar dVPN
   - <img src="https://user-images.githubusercontent.com/114076168/191720584-55e0d0e2-5f72-4614-84fb-77b615481523.png" width="20" height="20"> Official Website: [https://solarlabs.ee/](https://solarlabs.ee/)
@@ -84,14 +86,20 @@ All the resources you need to get familiar with Sentinel dVPN network.
   - <img src="https://user-images.githubusercontent.com/114076168/191877865-bda1f103-cd08-474a-90ec-9dad5bc05159.png" width="20" height="20"> Sifchain: [https://sifchain.network/](https://sifchain.network/)
   - <img src="https://user-images.githubusercontent.com/114076168/192440569-4dcd0746-9bb2-4d3f-bc11-acf2841a048c.png" width="20" height="20"> Polarity: [https://polarity.exchange/](https://polarity.exchange/)
   - <img src="https://user-images.githubusercontent.com/114076168/192654505-f9805110-d520-4857-8a23-258037fcf197.png" width="20" height="20"> Sienna Network: [https://sienna.network/](https://sienna.network/)
+  
+## Try Sentinel DVPN for free
+- <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Free DVPN Bot: [http://t.me/Free_dVPN_Bot](http://t.me/Free_dVPN_Bot)
 
 ## Telegram channels
-* <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Official Announcements: [https://t.me/Sentinel_Announcements](https://t.me/Sentinel_Announcements)
-* <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Main chat: [https://t.me/sentinel_co](https://t.me/sentinel_co)
-* <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Node chat: [https://t.me/SentinelNodeNetwork](https://t.me/SentinelNodeNetwork)
-* <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Price discussion: [https://t.me/dvpnpricediscussion](https://t.me/dvpnpricediscussion)
-* <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Governance: [https://t.me/SentinelGov](https://t.me/SentinelGov)
-* <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> SIN - Sentinel Independent News: [https://t.me/sentinel_independent](https://t.me/sentinel_independent)
+
+* #### Official Channels:
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Official Announcements: [https://t.me/Sentinel_Announcements](https://t.me/Sentinel_Announcements)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Main chat: [https://t.me/sentinel_co](https://t.me/sentinel_co)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Node chat: [https://t.me/SentinelNodeNetwork](https://t.me/SentinelNodeNetwork)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Price discussion: [https://t.me/dvpnpricediscussion](https://t.me/dvpnpricediscussion)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Governance: [https://t.me/SentinelGov](https://t.me/SentinelGov)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> SIN - Sentinel Independent News: [https://t.me/sentinel_independent](https://t.me/sentinel_independent)
+
 * #### International Channels:
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Africa: [https://t.me/Sentinel_Africa](https://t.me/Sentinel_Africa) <img src="https://user-images.githubusercontent.com/114076168/191890163-745c711c-4caa-4c46-b373-bda23767fb99.png" width="20" height="20">
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Bangladesh: [https://t.me/Sentinel_BD](https://t.me/Sentinel_BD) <img src="https://user-images.githubusercontent.com/114076168/191890149-a00e59c7-1cec-412d-b174-f84074276df3.png" width="20" height="20">
@@ -118,6 +126,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Turkey: [https://t.me/sentinel_turkey](https://t.me/sentinel_turkey) <img src="https://user-images.githubusercontent.com/114076168/191890156-be61897e-df22-4f25-9056-8e41b6ae9a2b.png" width="20" height="20">
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Ukraine: [https://t.me/Sentinel_Ukraine](https://t.me/Sentinel_Ukraine) <img src="https://user-images.githubusercontent.com/114076168/191890146-87478e04-945a-4051-afbe-0164b3970c5d.png" width="20" height="20">
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Vietnam: [https://t.me/sentinel_Vietnam](https://t.me/sentinel_Vietnam) <img src="https://user-images.githubusercontent.com/114076168/191890160-059470e4-0567-41e4-9ab5-f2625224dd53.png" width="20" height="20">
+  
 * #### Validators:
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> 01node: [https://t.me/node01](https://t.me/node01)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Allnodes: [https://t.me/allnodes](https://t.me/allnodes)
