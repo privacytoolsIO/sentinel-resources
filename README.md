@@ -43,6 +43,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
 ## Guides
 
 - <img src="https://user-images.githubusercontent.com/114076168/191978075-0f919e6a-4ed3-4d33-8dea-39fcef1d4a8e.png" width="20" height="20"> Install a Sentinel Node: [https://github.com/p4privacy/sentinel-node-guide](https://github.com/p4privacy/sentinel_node_guide)
+- <img src="https://user-images.githubusercontent.com/114076168/191978075-0f919e6a-4ed3-4d33-8dea-39fcef1d4a8e.png" width="20" height="20"> Install a Master Node (become a Validator): [https://github.com/freQniK/docs/blob/mkdocs/docs/sentinelhub/sentinel-hub-rpc.md](https://github.com/freQniK/docs/blob/mkdocs/docs/sentinelhub/sentinel-hub-rpc.md)
 - <img src="https://user-images.githubusercontent.com/114076168/191978075-0f919e6a-4ed3-4d33-8dea-39fcef1d4a8e.png" width="20" height="20"> Sentinel dVPN Guide: New, Exciting and Decentralized. Everything Explained [https://www.privacytools.io/guides/sentinel-dvpn](https://www.privacytools.io/guides/sentinel-dvpn)
 
 ## Wallets and Staking
