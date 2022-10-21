@@ -169,4 +169,3 @@ All the resources you need to get familiar with Sentinel dVPN network.
 
 ## Winning DVPNs
 - <img src="https://user-images.githubusercontent.com/114076168/191728526-658e4c9e-256d-4fd6-b3cd-7671b48eb7c7.png" width="20" height="20"> DVPN Casino: [https://dvpn.casino/](https://dvpn.casino/)
-- <img src="https://user-images.githubusercontent.com/114076168/191728474-0a706531-6e2e-4322-acea-e4b734836e4c.png" width="20" height="20"> TedCrypto Lottery: [https://lotto.tedcrypto.io/sentinel](https://lotto.tedcrypto.io/sentinel)
