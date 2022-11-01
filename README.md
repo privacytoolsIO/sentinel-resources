@@ -79,7 +79,6 @@ All the resources you need to get familiar with Sentinel dVPN network.
 * ### Centralized
   - <img src="https://user-images.githubusercontent.com/114076168/191877833-a23ee9d4-b90d-421c-bb73-d43f7dcc1e2a.png" width="20" height="20"> Kucoin: [https://trade.kucoin.com/DVPN-USDT](https://trade.kucoin.com/DVPN-USDT)
   - <img src="https://user-images.githubusercontent.com/114076168/191877848-0d345eae-0e13-4c4a-9a34-ed85760b39fc.jpg" width="20" height="20"> AscendEx: [https://ascendex.com/en/basic/cashtrade-spottrading/usdt/dvpn](https://ascendex.com/en/basic/cashtrade-spottrading/usdt/dvpn)
-  - <img src="https://user-images.githubusercontent.com/114076168/191877857-f7588512-e2ba-4ae2-a4bd-7873d945bec3.png" width="20" height="20"> MEXC: [https://www.mexc.com/exchange/DVPN_USDT](https://www.mexc.com/exchange/DVPN_USDT)
   - <img src="https://user-images.githubusercontent.com/114076168/191877868-72e7fdbb-abd1-496b-a1ca-c29fec3efeb4.png" width="20" height="20"> Hotbit: [https://www.hotbit.io/exchange?symbol=DVPN_USDT](https://www.hotbit.io/exchange?symbol=DVPN_USDT)
 
 * ### Decentralized
