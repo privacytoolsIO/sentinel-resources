@@ -19,6 +19,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
 * [Try Sentinel DVPN for free](#try-sentinel-dvpn-for-free)
 * [Telegram channels](#telegram-channels)
   - [Official Channels](#official-channels)
+  - [Unofficial Channels](#unofficial-channels)
   - [International Channels](#international-channels)
   - [Validators](#validators)
 * [Social accounts](#social-accounts)
