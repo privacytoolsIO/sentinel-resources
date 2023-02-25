@@ -103,7 +103,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
 
 * #### Unofficial Channels:
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> SIN - Sentinel Independent News: [https://t.me/sentinel_independent](https://t.me/sentinel_independent)
-  - <img src="https://user-images.githubusercontent.com/114076168/221323078-71403839-5797-46b6-ac51-ea2a2d4c9773.jpg" width="20" height="20"> HandyHost: [https://t.me/handycomm](https://t.me/handycomm)
+  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> HandyHost: [https://t.me/handycomm](https://t.me/handycomm)
 
 * #### International Channels:
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Africa: [https://t.me/Sentinel_Africa](https://t.me/Sentinel_Africa) <img src="https://user-images.githubusercontent.com/114076168/191890163-745c711c-4caa-4c46-b373-bda23767fb99.png" width="20" height="20">
