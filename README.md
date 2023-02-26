@@ -136,7 +136,6 @@ All the resources you need to get familiar with Sentinel dVPN network.
 * #### Validators:
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> 01node: [https://t.me/node01](https://t.me/node01)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Allnodes: [https://t.me/allnodes](https://t.me/allnodes)
-  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> AUDIT.one: [https://t.me/AuditOne](https://t.me/AuditOne)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> AutoStake: [https://t.me/AutoStake_net](https://t.me/AutoStake_net)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Badger Bite: [https://t.me/BadgerbiteValidator](https://t.me/BadgerbiteValidator)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> ChainLayer: [https://t.me/chainlayer](https://t.me/chainlayer)
@@ -146,11 +145,9 @@ All the resources you need to get familiar with Sentinel dVPN network.
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Cosmostation: [https://t.me/cosmostation](https://t.me/cosmostation)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> DragonStake: [https://t.me/DragonStake_Community](https://t.me/DragonStake_Community)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Easy2Stake: [https://t.me/easy2stake](https://t.me/easy2stake)
-  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Figment: [https://t.me/FigmentNetworks](https://t.me/FigmentNetworks)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Forbole: [https://t.me/forbole](https://t.me/forbole)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Quokka Stake: [https://t.me/quokkastake](https://t.me/quokkastake) - [Website](https://quokkastake.io) - [GitHub](https://github.com/QuokkaStake)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> A4ADAO: [https://t.me/A4ADAO](https://t.me/A4ADAO) - [Twitter](https://twitter.com/A4ADAO/) - [Medium](https://medium.com/@A4A.DAO)
-  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> High Stakes: [https://t.me/HighStakesSwitzerland](https://t.me/HighStakesSwitzerland)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> MathNodes: [https://t.me/MathNodes](https://t.me/MathNodes)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> OmniFlix Network: [https://t.me/OmniFLixNetwork](https://t.me/OmniFLixNetwork)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> SG-1: [https://t.me/sg1online](https://t.me/sg1online)
@@ -162,9 +159,7 @@ All the resources you need to get familiar with Sentinel dVPN network.
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Stakewolle: [https://t.me/stakewolle](https://t.me/stakewolle)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Strangelove: [https://t.me/strangeloveprice](https://t.me/strangeloveprice)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Swiss Staking: [https://t.me/swissstaking](https://t.me/swissstaking)
-  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> SyncNode: [https://t.me/syncnodeValidator](https://t.me/syncnodeValidator)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Ubik Capital: [https://t.me/ubikcapital](https://t.me/ubikcapital)
-  - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Woodstock: [https://t.me/woodstockfund](https://t.me/woodstockfund) 
 
 ## Social accounts
 - <img src="https://user-images.githubusercontent.com/114076168/191895719-e4db3eac-4118-4772-b9ab-cd2b58e0aff8.png" width="20" height="20"> Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
