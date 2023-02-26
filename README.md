@@ -16,13 +16,13 @@ All the resources you need to get familiar with Sentinel dVPN network.
 * [Exchanges supporting DVPN](#exchanges-supporting-dvpn)
   - [Centralized](#centralized)
   - [Decentralized](#decentralized)
+* [Social accounts](#social-accounts)
 * [Try Sentinel DVPN for free](#try-sentinel-dvpn-for-free)
 * [Telegram channels](#telegram-channels)
   - [Official Channels](#official-channels)
   - [Unofficial Channels](#unofficial-channels)
   - [International Channels](#international-channels)
   - [Validators](#validators)
-* [Social accounts](#social-accounts)
 * [Winning DVPNs](#winning-dvpns)
 
 ## The Project
@@ -88,6 +88,12 @@ All the resources you need to get familiar with Sentinel dVPN network.
   - <img src="https://user-images.githubusercontent.com/114076168/191877865-bda1f103-cd08-474a-90ec-9dad5bc05159.png" width="20" height="20"> Sifchain: [https://sifchain.network/](https://sifchain.network/)
   - <img src="https://user-images.githubusercontent.com/114076168/192440569-4dcd0746-9bb2-4d3f-bc11-acf2841a048c.png" width="20" height="20"> Polarity: [https://polarity.exchange/](https://polarity.exchange/)
   - <img src="https://user-images.githubusercontent.com/114076168/192654505-f9805110-d520-4857-8a23-258037fcf197.png" width="20" height="20"> Sienna Network: [https://sienna.network/](https://sienna.network/)
+
+## Social accounts
+- <img src="https://user-images.githubusercontent.com/114076168/191895719-e4db3eac-4118-4772-b9ab-cd2b58e0aff8.png" width="20" height="20"> Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
+- <img src="https://user-images.githubusercontent.com/114076168/191895723-c8486e2c-0853-49dd-bc39-54ece0cbbf18.png" width="20" height="20"> Reddit: [https://www.reddit.com/r/dVPN/](https://www.reddit.com/r/dVPN/)
+- <img src="https://user-images.githubusercontent.com/114076168/191895718-78787ae4-944e-4ecd-af17-2a50e67002f1.png" width="20" height="20"> Discord: [https://discord.gg/bHJbar4](https://discord.gg/bHJbar4)
+- <img src="https://user-images.githubusercontent.com/114076168/191895722-69e825a2-be4d-4b16-87fe-8350aaef8be9.png" width="20" height="20"> Medium: [https://medium.com/@sentinel](https://medium.com/@sentinel)
   
 ## Try Sentinel DVPN for free
 - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Free DVPN Bot (currently NOT working): [http://t.me/Free_dVPN_Bot](http://t.me/Free_dVPN_Bot)
@@ -160,12 +166,6 @@ All the resources you need to get familiar with Sentinel dVPN network.
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Strangelove: [https://t.me/strangeloveprice](https://t.me/strangeloveprice)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Swiss Staking: [https://t.me/swissstaking](https://t.me/swissstaking)
   - <img src="https://user-images.githubusercontent.com/114076168/191734584-fbe7a8fc-1fd8-4cbb-bb5b-5f74b88b6d27.png" width="20" height="20"> Ubik Capital: [https://t.me/ubikcapital](https://t.me/ubikcapital)
-
-## Social accounts
-- <img src="https://user-images.githubusercontent.com/114076168/191895719-e4db3eac-4118-4772-b9ab-cd2b58e0aff8.png" width="20" height="20"> Twitter: [https://twitter.com/Sentinel_co](https://twitter.com/Sentinel_co)
-- <img src="https://user-images.githubusercontent.com/114076168/191895723-c8486e2c-0853-49dd-bc39-54ece0cbbf18.png" width="20" height="20"> Reddit: [https://www.reddit.com/r/dVPN/](https://www.reddit.com/r/dVPN/)
-- <img src="https://user-images.githubusercontent.com/114076168/191895718-78787ae4-944e-4ecd-af17-2a50e67002f1.png" width="20" height="20"> Discord: [https://discord.gg/bHJbar4](https://discord.gg/bHJbar4)
-- <img src="https://user-images.githubusercontent.com/114076168/191895722-69e825a2-be4d-4b16-87fe-8350aaef8be9.png" width="20" height="20"> Medium: [https://medium.com/@sentinel](https://medium.com/@sentinel)
 
 ## Winning DVPNs
 - <img src="https://user-images.githubusercontent.com/114076168/191728526-658e4c9e-256d-4fd6-b3cd-7671b48eb7c7.png" width="20" height="20"> DVPN Casino: [https://dvpn.casino/](https://dvpn.casino/)
