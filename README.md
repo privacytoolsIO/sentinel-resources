@@ -2,8 +2,8 @@
 
 ### Below you can find useful guides and resources to understand and contribute to Sentinel dVPN Network
 
-* [Sentinel Resources](https://p4privacy.gitbook.io/sentinel-resources/)
-* [Sentinel Node Install Guide](https://p4privacy.gitbook.io/sentinel-dvpn-node-guide/)
-* [Sentinel Hub/Validator install Guide](https://p4privacy.gitbook.io/sentinel-hub-install-guide/)
-* [TMKMS Guide for Sentinel Validator](https://p4privacy.gitbook.io/tmkms-guide-for-sentinel-validator/)
-* [Validator Monitoring Setup Guide](https://p4privacy.gitbook.io/validator-monitoring-setup-guide/)
+* [Sentinel dVPN Resources Guide](https://p4privacy.gitbook.io/sentinel-resources/)
+* [Sentinel dVPN Node Install Guide](https://p4privacy.gitbook.io/sentinel-dvpn-node-guide/)
+* [Sentinel dVPN Hub/Validator install Guide](https://p4privacy.gitbook.io/sentinel-hub-install-guide/)
+* [Sentinel dVPN Validator Monitoring Setup Guide](https://p4privacy.gitbook.io/validator-monitoring-setup-guide/)
+* [TMKMS Guide for Sentinel dVPN Validator](https://p4privacy.gitbook.io/tmkms-guide-for-sentinel-validator/)
