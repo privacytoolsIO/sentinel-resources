@@ -7,3 +7,12 @@
 * [Sentinel dVPN Hub/Validator install Guide](https://p4privacy.gitbook.io/sentinel-hub-install-guide/)
 * [Sentinel dVPN Validator Monitoring Setup Guide](https://p4privacy.gitbook.io/validator-monitoring-setup-guide/)
 * [TMKMS Guide for Sentinel dVPN Validator](https://p4privacy.gitbook.io/tmkms-guide-for-sentinel-validator/)
+
+### Donations
+
+If you found these guides helpful in gaining a better understanding of the Sentinel Network, please consider leaving a donation.
+
+```diff
+sent1kaz6u0h57eh80tqpkregm23mrtkm7vm2xxlqwv
+```
+Thank you!
