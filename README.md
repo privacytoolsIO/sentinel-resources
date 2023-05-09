@@ -4,7 +4,7 @@
 
 * [Sentinel dVPN Resources Guide](https://trinityprivacy.gitbook.io/sentinel-resources/)
 * [Sentinel dVPN Node Install Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/)
-* [Sentinel dVPN Hub/Validator install Guide](https://trinityprivacy.gitbook.io/sentinel-hub-install-guide/)
+* [Sentinel dVPN Validator install Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/)
 * [Sentinel dVPN Validator Monitoring Setup Guide](https://trinityprivacy.gitbook.io/validator-monitoring-setup-guide/)
 * [TMKMS Guide for Sentinel dVPN Validator](https://trinityprivacy.gitbook.io/tmkms-guide-for-sentinel-validator/)
 
