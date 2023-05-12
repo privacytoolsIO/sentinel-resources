@@ -8,7 +8,7 @@
 * [Sentinel dVPN Validator Monitoring Setup Guide](https://trinityprivacy.gitbook.io/validator-monitoring-setup-guide/)
 * [TMKMS Guide for Sentinel dVPN Validator](https://trinityprivacy.gitbook.io/tmkms-guide-for-sentinel-validator/)
 
-### Donations
+### Stake your DVPN with us
 
 If you hold DVPN, stake them with us: [Sentinel Trinity Validator](https://www.mintscan.io/sentinel/validators/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se)
 
