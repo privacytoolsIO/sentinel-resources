@@ -10,6 +10,10 @@
 
 ### Donations
 
+If you hold DVPN, stake them with us: [Sentinel Trinity Validator](https://www.mintscan.io/sentinel/validators/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se)
+
+### Donations
+
 If you found these guides helpful in gaining a better understanding of the Sentinel Network, please consider leaving a donation.
 
 ```diff
