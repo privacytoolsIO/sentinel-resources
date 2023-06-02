@@ -2,11 +2,21 @@
 
 ### Below you can find useful guides and resources to understand and contribute to Sentinel dVPN Network
 
+
+### Below you can find useful guides and resources to understand and contribute to Sentinel dVPN Network
+
 * [Sentinel dVPN Resources Guide](https://trinityprivacy.gitbook.io/sentinel-resources/)
 * [Sentinel dVPN Node Install Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/)
-* [Sentinel dVPN Validator install Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/)
-* [Sentinel dVPN Validator Monitoring Setup Guide](https://trinityprivacy.gitbook.io/validator-monitoring-setup-guide/)
-* [TMKMS Guide for Sentinel dVPN Validator](https://trinityprivacy.gitbook.io/tmkms-guide-for-sentinel-validator/)
+
+## Validator
+
+[Main Installation Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/)
+
+### Validator Tuning guides
+
+- [TMKMS Guide](https://trinityprivacy.gitbook.io/tmkms-guide-for-sentinel-validator/)
+- [Monitoring Guide](https://trinityprivacy.gitbook.io/validator-monitoring-setup-guide/)
+- [RPC Exposure](https://trinityprivacy.gitbook.io/sentinel-rpc-exposure/)
 
 ### Stake your DVPN with us
 
