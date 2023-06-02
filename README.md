@@ -4,11 +4,11 @@ Below you can find useful guides and resources to understand and contribute to S
 
 ## Resources
 
-* [Sentinel Resources](https://trinityprivacy.gitbook.io/sentinel-resources/): all the resources you need to understand Sentinel dVPN Network
+[Sentinel Resources](https://trinityprivacy.gitbook.io/sentinel-resources/): all the resources you need to understand Sentinel dVPN Network
 
 ## Node
 
-* [Sentinel dVPN Node Install Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/): how to install a node and contribute to the network
+[Node Install Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/): how to install a node and contribute to the network
 
 ## Validator
 
