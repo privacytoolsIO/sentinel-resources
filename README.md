@@ -2,9 +2,6 @@
 
 ### Below you can find useful guides and resources to understand and contribute to Sentinel dVPN Network
 
-
-### Below you can find useful guides and resources to understand and contribute to Sentinel dVPN Network
-
 * [Sentinel dVPN Resources Guide](https://trinityprivacy.gitbook.io/sentinel-resources/)
 * [Sentinel dVPN Node Install Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/)
 
