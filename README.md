@@ -8,11 +8,11 @@ Below you can find useful guides and resources to understand and contribute to S
 
 ## Node
 
-[Node Install Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/): how to install a node and contribute to the network
+[Node Installation Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/): how to install a node and contribute to the network
 
 ## Validator
 
-[Main Installation Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/): 
+[Validator Installation Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/): 
 
 Validator Tuning guides
 
