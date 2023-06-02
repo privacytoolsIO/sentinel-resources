@@ -20,11 +20,11 @@ Validator Tuning guides
 - [Monitoring Guide](https://trinityprivacy.gitbook.io/validator-monitoring-setup-guide/)
 - [RPC Exposure](https://trinityprivacy.gitbook.io/sentinel-rpc-exposure/)
 
-### Stake your DVPN with us
+## Stake your DVPN with us
 
 If you hold DVPN, stake them with us: [Sentinel Trinity Validator](https://www.mintscan.io/sentinel/validators/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se)
 
-### Donations
+## Donations
 
 If you found these guides helpful in gaining a better understanding of the Sentinel Network, please consider leaving a donation.
 
