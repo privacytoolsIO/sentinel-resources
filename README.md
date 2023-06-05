@@ -12,7 +12,7 @@ Below you can find useful guides and resources to understand and contribute to S
 
 ## Validator
 
-[Validator Installation Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/): how to install a validator and acticely partiticape to the network
+[Validator Installation Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/): how to install a validator and actively participate to the network
 
 Post Installation - Tuning guides
 
