@@ -14,7 +14,7 @@ Below you can find useful guides and resources to understand and contribute to S
 
 [Validator Installation Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/): 
 
-Validator Tuning guides
+Post Installation - Tuning guides
 
 - [TMKMS Guide](https://trinityprivacy.gitbook.io/tmkms-guide-for-sentinel-validator/)
 - [Monitoring Guide](https://trinityprivacy.gitbook.io/validator-monitoring-setup-guide/)
