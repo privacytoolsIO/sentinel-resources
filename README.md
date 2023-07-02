@@ -8,11 +8,11 @@ Below you can find useful guides and resources to understand and contribute to S
 
 ## Node
 
-[Node Installation Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/): how to install a node and contribute to the network
+[Node Set up Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/): how to install a node and contribute to the network
 
 ## Validator
 
-[Validator Installation Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/): how to install a validator and actively participate to the network
+[Validator Set up Guide](https://trinityprivacy.gitbook.io/sentinel-validator-install-guide/): how to install a validator and actively participate to the network
 
 Post Installation - Tuning guides
 
@@ -21,8 +21,8 @@ Post Installation - Tuning guides
 - [RPC Exposure](https://trinityprivacy.gitbook.io/sentinel-rpc-exposure/)
 
 ## Stake your DVPN with us
-
-If you hold DVPN, stake them with us: [Sentinel Trinity Validator](https://www.mintscan.io/sentinel/validators/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se)
+[
+If you hold DVPN, stake them with us: [Trinity Validator]](https://trinityvalidator.com/)
 
 ## Donations
 
