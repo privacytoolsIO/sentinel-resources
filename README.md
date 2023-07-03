@@ -21,8 +21,8 @@ Post Installation - Tuning guides
 - [RPC Exposure](https://trinityprivacy.gitbook.io/sentinel-rpc-exposure/)
 
 ## Stake your DVPN with us
-[
-If you hold DVPN, stake them with us: [Trinity Validator]](https://trinityvalidator.com/)
+
+If you hold DVPN, stake them with us: [Trinity Validator](https://trinityvalidator.com/)
 
 ## Donations
 
