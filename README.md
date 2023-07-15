@@ -14,12 +14,6 @@ Below you can find useful guides and resources to understand and contribute to S
 
 [Validator Setup Guide](https://trinityprivacy.gitbook.io/sentinel-validator-setup-guide/): how to setup a validator and actively participate to the network
 
-Post Installation - Tuning guides
-
-- [TMKMS Guide](https://trinityprivacy.gitbook.io/tmkms-guide-for-sentinel-validator/)
-- [Monitoring Guide](https://trinityprivacy.gitbook.io/validator-monitoring-setup-guide/)
-- [RPC Exposure](https://trinityprivacy.gitbook.io/sentinel-rpc-exposure/)
-
 ## Stake your DVPN with us
 
 If you hold DVPN, stake them with us: [Trinity Validator](https://trinityvalidator.com/)
