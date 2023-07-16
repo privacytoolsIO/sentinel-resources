@@ -8,7 +8,7 @@ Below you can find useful guides and resources to understand and contribute to S
 
 ## Node
 
-[Node Setup Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-guide/): how to setup a node and contribute to the network
+[Node Setup Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-setup-guide/): how to setup a node and contribute to the network
 
 ## Validator
 
