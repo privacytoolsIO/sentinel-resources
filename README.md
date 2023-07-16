@@ -12,7 +12,7 @@ Below you can find useful guides and resources to understand and contribute to S
 
 ## Validator
 
-[Validator Setup Guide](https://trinityprivacy.gitbook.io/sentinel-validator-setup-guide/): how to setup a validator and actively participate to the network
+[Validator Setup Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-validator-setup-guide/): how to setup a validator and actively participate to the network
 
 ## Stake your DVPN with us
 
