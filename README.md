@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="35" height="35"> Sentinel dVPN Guides [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp4privacy%2Fsentinel_resources&count_bg=%230000ff&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![image](https://github.com/trinityprivacy/sentinel-dvpn-guides/assets/114076168/8c0d3911-51a3-4331-80e6-a8f2867b5bff)# <img src="https://user-images.githubusercontent.com/114076168/191721379-88f4b6ca-6463-4458-aab4-73d29d1bc7a0.jpg" width="35" height="35"> Sentinel dVPN Guides [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fp4privacy%2Fsentinel_resources&count_bg=%230000ff&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Below you can find useful guides and resources to understand and contribute to Sentinel dVPN Network
 
@@ -23,6 +23,6 @@ If you hold DVPN, stake them with us: [Trinity Validator Website](https://trinit
 If you found these guides helpful in gaining a better understanding of the Sentinel Network, please consider leaving a donation.
 
 ```diff
-sent1kaz6u0h57eh80tqpkregm23mrtkm7vm2xxlqwv
+sent1z5ssqynre0gujda34kekcxhnfxa5eu5uq0wh4n
 ```
 Thank you!
