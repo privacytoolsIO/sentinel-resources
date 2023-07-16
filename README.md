@@ -20,7 +20,7 @@ If you hold DVPN, stake them with us: [Trinity Validator Website](https://trinit
 
 ## Donations
 
-If you found these guides helpful in gaining a better understanding of the Sentinel Network, please consider leaving a donation.
+If you found these guides helpful in gaining a better understanding of the Sentinel dVPN Network, please consider leaving a donation.
 
 ```diff
 sent1z5ssqynre0gujda34kekcxhnfxa5eu5uq0wh4n
