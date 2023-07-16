@@ -4,19 +4,19 @@ Below you can find useful guides and resources to understand and contribute to S
 
 ## Resources
 
-[Sentinel Resources](https://trinityprivacy.gitbook.io/sentinel-resources/): all the resources you need to understand Sentinel dVPN Network
+[Sentinel dVPN Resources](https://trinityprivacy.gitbook.io/sentinel-dvpn-resources/): all the resources you need to understand Sentinel dVPN Network
 
 ## Node
 
-[Node Setup Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-setup-guide/): how to setup a node and contribute to the network
+[Sentinel dVPN Node Setup Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-node-setup-guide/): how to setup a node and contribute to the network
 
 ## Validator
 
-[Validator Setup Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-validator-setup-guide/): how to setup a validator and actively participate to the network
+[Sentinel dVPN Validator Setup Guide](https://trinityprivacy.gitbook.io/sentinel-dvpn-validator-setup-guide/): how to setup a validator and actively participate to the network
 
 ## Stake your DVPN with us
 
-If you hold DVPN, stake them with us: [Trinity Validator](https://trinityvalidator.com/)
+If you hold DVPN, stake them with us: [Trinity Validator Website](https://trinityvalidator.com/), [REStake.app](https://restake.app/sentinel/sentvaloper1mcwvu4vpvfcnxduzpelehmgga282wtc0xux7se)
 
 ## Donations
 
